@@ -9,7 +9,7 @@ This is the official website for **MK Global SA**, a South African company speci
 
 ## Screenshots
 ![Home Page](screenshots/home.png)
-![FAQ Page](screenshots/faq.png)
+![FAQ Page](screenshots/FAQ.png)
 ![Contact Page](screenshots/contact.png)
 
 ## Author
