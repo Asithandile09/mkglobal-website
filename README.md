@@ -1,16 +1,16 @@
 # MK Global Website
 
-This is the live website for MK Global SA, built with HTML, CSS, and JavaScript.
+This is the official website for **MK Global SA**, a South African company specializing in **logistics, transportation services, and client support solutions**. The website is designed to be **responsive**, ensuring an optimal experience on both desktop and mobile devices. It provides clients with an overview of services, answers to common questions, and an easy way to get in touch.
 
 ## Features
-- Contact form integrated with FormSubmit.co
-- Responsive design for mobile and desktop
-- Screenshots included in `/screenshots` folder
+- **Home Page:** Highlights MK Global’s services, mission, and company overview.
+- **FAQ Page:** Answers frequently asked questions to assist clients quickly.
+- **Contact Page:** Includes a contact form integrated with FormSubmit.co for client enquiries and feedback.
 
 ## Screenshots
-![Home Page](screenshots/"C:\Users\angie\Documents\MK GLOBAL\MK GLOBAL\MK GLOBAL\screenshots\home.png")
+![Home Page](screenshots/home.png)
+![FAQ Page](screenshots/faq.png)
 ![Contact Page](screenshots/contact.png)
 
 ## Author
 Angie Ngubane
-
