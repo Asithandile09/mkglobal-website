@@ -13,4 +13,4 @@ This is the official website for **MK Global SA**, a South African company speci
 ![Contact Page](screenshots/contact.png)
 
 ## Author
-Angie Ngubane
+Asithandile Ngubane
